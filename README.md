@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nirmala_kadali" target="blank"><img src="https://img.shields.io/twitter/follow/nirmala_kadali?logo=twitter&style=for-the-badge" alt="nirmala_kadali" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures using C**
+- 🔭 I’m currently working on **Data Structures using C++**
 
-- 🌱 I’m currently learning **Automata theory**
+- 🌱 I’m currently learning **Frondend Developement**
 
 - 👯 I’m looking to collaborate on **HTML,CSS and Javascript**
 
